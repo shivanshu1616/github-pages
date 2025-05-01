@@ -1,4 +1,3 @@
-Edited by Shivanshu
 <header>
 
 <!--
